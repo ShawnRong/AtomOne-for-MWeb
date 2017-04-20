@@ -2,8 +2,8 @@
 
 >A dark theme for [Mweb](http://www.mweb.im/)
 
-![Screenshot-Dark](./dark-screenshot.png.png)
-![Screenshot-Light](./light-screenshot.png.png)
+![Screenshot-Dark](./dark-screenshot.png)
+![Screenshot-Light](./light-screenshot.png)
 
 
 
