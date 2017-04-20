@@ -1,0 +1,76 @@
+# MWeb atom one dark color scheme
+# by ShawnRong
+# 
+# (light background version)
+
+editor
+foreground: 484B54 # base1
+background: FFFFFF # base03
+caret: 8497FA
+
+H1
+foreground: E96664 # Sunglo
+font-style: bold
+
+H2
+foreground: E96664 # Sunglo
+font-style: bold
+
+H3
+foreground: E96664 # Sunglo
+
+H4
+foreground: E96664 # Sunglo
+
+H5
+foreground: E96664 # Sunglo
+
+H6
+foreground: E96664 # Sunglo
+
+HRULE
+foreground: 586e75 # base01
+
+LIST_BULLET
+foreground: 66BAC4 # Fountain Blue
+
+LIST_ENUMERATOR
+foreground: 66BAC4 # Fountain Blue
+
+LINK
+foreground: 4E7E87 # Paradiso
+
+AUTO_LINK_URL
+foreground: 4E7E87 # Paradiso
+
+AUTO_LINK_EMAIL
+foreground: 4E7E87 # Paradiso
+
+IMAGE
+foreground: 4E7E87 # Paradiso
+
+REFERENCE
+foreground: 4E7E87 # Paradiso
+
+CODE
+foreground: 63AD65 # Fern
+
+EMPH
+foreground: B5BCC7 # Cadet Blue 
+font-style: italic
+
+STRONG
+foreground: B9C0CB # Heather 
+font-style: bold
+
+HTML_ENTITY
+foreground: 434953 # Mako
+
+COMMENT
+foreground: 434953 # Mako
+
+VERBATIM
+foreground: 63AD65 # Fern
+
+BLOCKQUOTE
+foreground: 8D7F66 # Granite Green
